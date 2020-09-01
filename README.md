@@ -1,2 +1,2 @@
 # Major-Project-Verzeo
-Loan 
+Loan Application System
